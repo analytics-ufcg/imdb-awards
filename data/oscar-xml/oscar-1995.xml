@@ -1,0 +1,521 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<queryresult success='true'
+    error='false'
+    numpods='2'
+    datatypes='AcademyAward,Movie,People'
+    timedout=''
+    timedoutpods=''
+    timing='5.471'
+    parsetiming='0.198'
+    parsetimedout='false'
+    recalculate=''
+    id='MSPa491h3c19ca900aeed100001gh05a296eh11539'
+    host='http://www5b.wolframalpha.com'
+    server='1'
+    related='http://www5b.wolframalpha.com/api/v2/relatedQueries.jsp?id=MSPa501h3c19ca900aeed100005fb6f9c74h4g4ieh&amp;s=1'
+    version='2.6'>
+ <pod title='Input interpretation'
+     scanner='Identity'
+     id='Input'
+     position='100'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <plaintext>Academy Awards | 1995 (year of award ceremony)</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP511h3c19ca900aeed100001bi36f83fage31if?MSPStoreType=image/gif&amp;s=1'
+       alt='Academy Awards | 1995 (year of award ceremony)'
+       title='Academy Awards | 1995 (year of award ceremony)'
+       width='380'
+       height='32' />
+  </subpod>
+ </pod>
+ <pod title='Academy Award winners and nominees'
+     scanner='Data'
+     id='Result'
+     position='200'
+     error='false'
+     numsubpods='25'
+     primary='true'>
+  <subpod title='Best picture'>
+   <plaintext>winner | Forrest Gump (produced by Wendy Finerman, Steve Tisch and Steve Starkey)
+nominees | Four Weddings and a Funeral (produced by Duncan Kenworthy)
+  | Pulp Fiction (produced by Lawrence Bender)
+  | Quiz Show (produced by Robert Redford, Michael Jacobs, Julian Krainin and Michael Nozik)
+  | The Shawshank Redemption (produced by Niki Marvin)</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP521h3c19ca900aeed10000529adc658941ge21?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Forrest Gump (produced by Wendy Finerman, Steve Tisch and Steve Starkey)
+nominees | Four Weddings and a Funeral (produced by Duncan Kenworthy)
+  | Pulp Fiction (produced by Lawrence Bender)
+  | Quiz Show (produced by Robert Redford, Michael Jacobs, Julian Krainin and Michael Nozik)
+  | The Shawshank Redemption (produced by Niki Marvin)'
+       title='winner | Forrest Gump (produced by Wendy Finerman, Steve Tisch and Steve Starkey)
+nominees | Four Weddings and a Funeral (produced by Duncan Kenworthy)
+  | Pulp Fiction (produced by Lawrence Bender)
+  | Quiz Show (produced by Robert Redford, Michael Jacobs, Julian Krainin and Michael Nozik)
+  | The Shawshank Redemption (produced by Niki Marvin)'
+       width='496'
+       height='207' />
+  </subpod>
+  <subpod title='Actor in a leading role'>
+   <plaintext>winner | Tom Hanks in Forrest Gump
+nominees | John Travolta in Pulp Fiction
+  | Morgan Freeman in The Shawshank Redemption
+  | Nigel Hawthorne in The Madness of King George
+  | Paul Newman in Nobody&apos;s Fool</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP531h3c19ca900aeed100006b21dghf4fh8028c?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Tom Hanks in Forrest Gump
+nominees | John Travolta in Pulp Fiction
+  | Morgan Freeman in The Shawshank Redemption
+  | Nigel Hawthorne in The Madness of King George
+  | Paul Newman in Nobody&apos;s Fool'
+       title='winner | Tom Hanks in Forrest Gump
+nominees | John Travolta in Pulp Fiction
+  | Morgan Freeman in The Shawshank Redemption
+  | Nigel Hawthorne in The Madness of King George
+  | Paul Newman in Nobody&apos;s Fool'
+       width='433'
+       height='152' />
+  </subpod>
+  <subpod title='Actor in a supporting role'>
+   <plaintext>winner | Martin Landau in Ed Wood
+nominees | Chazz Palminteri in Bullets Over Broadway
+  | Gary Sinise in Forrest Gump
+  | Paul Scofield in Quiz Show
+  | Samuel L. Jackson in Pulp Fiction</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP541h3c19ca900aeed100004fc7877b2dc94f0i?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Martin Landau in Ed Wood
+nominees | Chazz Palminteri in Bullets Over Broadway
+  | Gary Sinise in Forrest Gump
+  | Paul Scofield in Quiz Show
+  | Samuel L. Jackson in Pulp Fiction'
+       title='winner | Martin Landau in Ed Wood
+nominees | Chazz Palminteri in Bullets Over Broadway
+  | Gary Sinise in Forrest Gump
+  | Paul Scofield in Quiz Show
+  | Samuel L. Jackson in Pulp Fiction'
+       width='393'
+       height='152' />
+  </subpod>
+  <subpod title='Actress in a leading role'>
+   <plaintext>winner | Jessica Lange in Blue Sky
+nominees | Jodie Foster in Nell
+  | Miranda Richardson in Tom &amp; Viv
+  | Susan Sarandon in The Client
+  | Winona Ryder in Little Women</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP551h3c19ca900aeed1000069gg2199hg375e45?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Jessica Lange in Blue Sky
+nominees | Jodie Foster in Nell
+  | Miranda Richardson in Tom &amp; Viv
+  | Susan Sarandon in The Client
+  | Winona Ryder in Little Women'
+       title='winner | Jessica Lange in Blue Sky
+nominees | Jodie Foster in Nell
+  | Miranda Richardson in Tom &amp; Viv
+  | Susan Sarandon in The Client
+  | Winona Ryder in Little Women'
+       width='336'
+       height='152' />
+  </subpod>
+  <subpod title='Actress in a supporting role'>
+   <plaintext>winner | Dianne Wiest in Bullets Over Broadway
+nominees | Helen Mirren in The Madness of King George
+  | Jennifer Tilly in Bullets Over Broadway
+  | Rosemary Harris in Tom &amp; Viv
+  | Uma Thurman in Pulp Fiction</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP561h3c19ca900aeed100006a04b4iaag80045b?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Dianne Wiest in Bullets Over Broadway
+nominees | Helen Mirren in The Madness of King George
+  | Jennifer Tilly in Bullets Over Broadway
+  | Rosemary Harris in Tom &amp; Viv
+  | Uma Thurman in Pulp Fiction'
+       title='winner | Dianne Wiest in Bullets Over Broadway
+nominees | Helen Mirren in The Madness of King George
+  | Jennifer Tilly in Bullets Over Broadway
+  | Rosemary Harris in Tom &amp; Viv
+  | Uma Thurman in Pulp Fiction'
+       width='406'
+       height='152' />
+  </subpod>
+  <subpod title='Directing'>
+   <plaintext>winner | Robert Zemeckis for Forrest Gump
+nominees | Krzysztof Kieslowski for Trois couleurs: Rouge
+  | Quentin Tarantino for Pulp Fiction
+  | Robert Redford for Quiz Show
+  | Woody Allen for Bullets Over Broadway</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP571h3c19ca900aeed100005i04g93b1g940db2?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Robert Zemeckis for Forrest Gump
+nominees | Krzysztof Kieslowski for Trois couleurs: Rouge
+  | Quentin Tarantino for Pulp Fiction
+  | Robert Redford for Quiz Show
+  | Woody Allen for Bullets Over Broadway'
+       title='winner | Robert Zemeckis for Forrest Gump
+nominees | Krzysztof Kieslowski for Trois couleurs: Rouge
+  | Quentin Tarantino for Pulp Fiction
+  | Robert Redford for Quiz Show
+  | Woody Allen for Bullets Over Broadway'
+       width='415'
+       height='152' />
+  </subpod>
+  <subpod title='Irving G. Thalberg memorial award'>
+   <plaintext>winner | Clint Eastwood</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP581h3c19ca900aeed1000016bcc87503hgg748?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Clint Eastwood'
+       title='winner | Clint Eastwood'
+       width='194'
+       height='36' />
+  </subpod>
+  <subpod title='Jean Hersholt humanitarian award'>
+   <plaintext>winner | Quincy Jones</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP591h3c19ca900aeed1000037c347d5h1d2047c?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Quincy Jones'
+       title='winner | Quincy Jones'
+       width='184'
+       height='36' />
+  </subpod>
+  <subpod title='Art direction'>
+   <plaintext>winner | Ken Adam and Carolyn Scott for The Madness of King George
+nominees | Dante Ferretti and Francesca Lo Schiavo for Interview with the Vampire: The Vampire Chronicles
+  | Lilly Kilvert and Dorree Cooper for Legends of the Fall
+  | Rick Carter and Nancy Haigh for Forrest Gump
+  | Santo Loquasto and Susan Bode for Bullets Over Broadway</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP601h3c19ca900aeed100001b4h9da2572e5737?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Ken Adam and Carolyn Scott for The Madness of King George
+nominees | Dante Ferretti and Francesca Lo Schiavo for Interview with the Vampire: The Vampire Chronicles
+  | Lilly Kilvert and Dorree Cooper for Legends of the Fall
+  | Rick Carter and Nancy Haigh for Forrest Gump
+  | Santo Loquasto and Susan Bode for Bullets Over Broadway'
+       title='winner | Ken Adam and Carolyn Scott for The Madness of King George
+nominees | Dante Ferretti and Francesca Lo Schiavo for Interview with the Vampire: The Vampire Chronicles
+  | Lilly Kilvert and Dorree Cooper for Legends of the Fall
+  | Rick Carter and Nancy Haigh for Forrest Gump
+  | Santo Loquasto and Susan Bode for Bullets Over Broadway'
+       width='496'
+       height='207' />
+  </subpod>
+  <subpod title='Cinematography'>
+   <plaintext>winner | John Toll for Legends of the Fall
+nominees | Don Burgess for Forrest Gump
+  | Owen Roizman for Wyatt Earp
+  | Piotr Sobocinski for Trois couleurs: Rouge
+  | Roger Deakins for The Shawshank Redemption</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP611h3c19ca900aeed100001b0a733hhcehgagf?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | John Toll for Legends of the Fall
+nominees | Don Burgess for Forrest Gump
+  | Owen Roizman for Wyatt Earp
+  | Piotr Sobocinski for Trois couleurs: Rouge
+  | Roger Deakins for The Shawshank Redemption'
+       title='winner | John Toll for Legends of the Fall
+nominees | Don Burgess for Forrest Gump
+  | Owen Roizman for Wyatt Earp
+  | Piotr Sobocinski for Trois couleurs: Rouge
+  | Roger Deakins for The Shawshank Redemption'
+       width='419'
+       height='152' />
+  </subpod>
+  <subpod title='Music (original score)'>
+   <plaintext>winner | Hans Zimmer for The Lion King
+nominees | Alan Silvestri for Forrest Gump
+  | Elliot Goldenthal for Interview with the Vampire: The Vampire Chronicles
+  | Thomas Newman for Little Women
+  | Thomas Newman for The Shawshank Redemption</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP621h3c19ca900aeed100005e2ehbh09adh8a4h?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Hans Zimmer for The Lion King
+nominees | Alan Silvestri for Forrest Gump
+  | Elliot Goldenthal for Interview with the Vampire: The Vampire Chronicles
+  | Thomas Newman for Little Women
+  | Thomas Newman for The Shawshank Redemption'
+       title='winner | Hans Zimmer for The Lion King
+nominees | Alan Silvestri for Forrest Gump
+  | Elliot Goldenthal for Interview with the Vampire: The Vampire Chronicles
+  | Thomas Newman for Little Women
+  | Thomas Newman for The Shawshank Redemption'
+       width='455'
+       height='173' />
+  </subpod>
+  <subpod title='Music (original song)'>
+   <plaintext>winner | Elton John and Tim Rice for Can You Feel the Love Tonight in The Lion King
+nominees | Randy Newman for Make Up Your Mind in The Paper
+  | Elton John and Tim Rice for Circle of Life in The Lion King
+  | Elton John and Tim Rice for Hakuna Matata in The Lion King
+  | Carole Bayer Sager, James Newton Howard, James Ingram and Patty Smyth for Look What Love Has Done in Junior</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP631h3c19ca900aeed100003029c348794g1h23?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Elton John and Tim Rice for Can You Feel the Love Tonight in The Lion King
+nominees | Randy Newman for Make Up Your Mind in The Paper
+  | Elton John and Tim Rice for Circle of Life in The Lion King
+  | Elton John and Tim Rice for Hakuna Matata in The Lion King
+  | Carole Bayer Sager, James Newton Howard, James Ingram and Patty Smyth for Look What Love Has Done in Junior'
+       title='winner | Elton John and Tim Rice for Can You Feel the Love Tonight in The Lion King
+nominees | Randy Newman for Make Up Your Mind in The Paper
+  | Elton John and Tim Rice for Circle of Life in The Lion King
+  | Elton John and Tim Rice for Hakuna Matata in The Lion King
+  | Carole Bayer Sager, James Newton Howard, James Ingram and Patty Smyth for Look What Love Has Done in Junior'
+       width='496'
+       height='228' />
+  </subpod>
+  <subpod title='Writing (screenplay written directly for the screen)'>
+   <plaintext>winner | Quentin Tarantino and Roger Avary for Pulp Fiction
+nominees | Richard Curtis for Four Weddings and a Funeral
+  | Fran Walsh and Peter Jackson for Heavenly Creatures
+  | Krzysztof Piesiewicz and Krzysztof Kieslowski for Trois couleurs: Rouge
+  | Woody Allen and Douglas McGrath for Bullets Over Broadway</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP641h3c19ca900aeed100003cehfb6e915a48bh?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Quentin Tarantino and Roger Avary for Pulp Fiction
+nominees | Richard Curtis for Four Weddings and a Funeral
+  | Fran Walsh and Peter Jackson for Heavenly Creatures
+  | Krzysztof Piesiewicz and Krzysztof Kieslowski for Trois couleurs: Rouge
+  | Woody Allen and Douglas McGrath for Bullets Over Broadway'
+       title='winner | Quentin Tarantino and Roger Avary for Pulp Fiction
+nominees | Richard Curtis for Four Weddings and a Funeral
+  | Fran Walsh and Peter Jackson for Heavenly Creatures
+  | Krzysztof Piesiewicz and Krzysztof Kieslowski for Trois couleurs: Rouge
+  | Woody Allen and Douglas McGrath for Bullets Over Broadway'
+       width='496'
+       height='194' />
+  </subpod>
+  <subpod title='Writing (screenplay based on material previously produced or published)'>
+   <plaintext>winner | Eric Roth for Forrest Gump
+nominees | Alan Bennett for The Madness of King George
+  | Frank Darabont for The Shawshank Redemption
+  | Paul Attanasio for Quiz Show
+  | Robert Benton for Nobody&apos;s Fool</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP651h3c19ca900aeed1000025fe7ac51917c9a0?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Eric Roth for Forrest Gump
+nominees | Alan Bennett for The Madness of King George
+  | Frank Darabont for The Shawshank Redemption
+  | Paul Attanasio for Quiz Show
+  | Robert Benton for Nobody&apos;s Fool'
+       title='winner | Eric Roth for Forrest Gump
+nominees | Alan Bennett for The Madness of King George
+  | Frank Darabont for The Shawshank Redemption
+  | Paul Attanasio for Quiz Show
+  | Robert Benton for Nobody&apos;s Fool'
+       width='429'
+       height='152' />
+  </subpod>
+  <subpod title='Costume design'>
+   <plaintext>winner | Lizzy Gardiner and Tim Chappel for The Adventures of Priscilla, Queen of the Desert
+nominees | April Ferry for Maverick
+  | Colleen Atwood for Little Women
+  | Jeffrey Kurland for Bullets Over Broadway
+  | Moidele Bickel for La Reine Margot</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP661h3c19ca900aeed1000033037aie5g01h448?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Lizzy Gardiner and Tim Chappel for The Adventures of Priscilla, Queen of the Desert
+nominees | April Ferry for Maverick
+  | Colleen Atwood for Little Women
+  | Jeffrey Kurland for Bullets Over Broadway
+  | Moidele Bickel for La Reine Margot'
+       title='winner | Lizzy Gardiner and Tim Chappel for The Adventures of Priscilla, Queen of the Desert
+nominees | April Ferry for Maverick
+  | Colleen Atwood for Little Women
+  | Jeffrey Kurland for Bullets Over Broadway
+  | Moidele Bickel for La Reine Margot'
+       width='425'
+       height='169' />
+  </subpod>
+  <subpod title='Makeup'>
+   <plaintext>winner | Rick Baker, Ve Neill and Yolanda Toussieng for Ed Wood
+nominees | Daniel C. Striepeke, Hallie D&apos;Amore and Judith A. Cory for Forrest Gump
+  | Daniel Parker, Paul Engelen and Carol Hemming for Frankenstein</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP671h3c19ca900aeed100004520ia47fc87f0c5?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Rick Baker, Ve Neill and Yolanda Toussieng for Ed Wood
+nominees | Daniel C. Striepeke, Hallie D&apos;Amore and Judith A. Cory for Forrest Gump
+  | Daniel Parker, Paul Engelen and Carol Hemming for Frankenstein'
+       title='winner | Rick Baker, Ve Neill and Yolanda Toussieng for Ed Wood
+nominees | Daniel C. Striepeke, Hallie D&apos;Amore and Judith A. Cory for Forrest Gump
+  | Daniel Parker, Paul Engelen and Carol Hemming for Frankenstein'
+       width='496'
+       height='134' />
+  </subpod>
+  <subpod title='Documentary (feature)'>
+   <plaintext>winner | Freida Lee Mock and Terry Sanders for Maya Lin: A Strong Clear Vision
+nominees | Charles E. Guggenheim for The American Experience - D-Day Remembered
+  | Deborah Hoffmann for Complaints of a Dutiful Daughter
+  | Jean Bach for A Great Day in Harlem
+  | Connie Field and Marilyn Mulford for Freedom on My Mind</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP681h3c19ca900aeed100005id0e9h42803i3g1?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Freida Lee Mock and Terry Sanders for Maya Lin: A Strong Clear Vision
+nominees | Charles E. Guggenheim for The American Experience - D-Day Remembered
+  | Deborah Hoffmann for Complaints of a Dutiful Daughter
+  | Jean Bach for A Great Day in Harlem
+  | Connie Field and Marilyn Mulford for Freedom on My Mind'
+       title='winner | Freida Lee Mock and Terry Sanders for Maya Lin: A Strong Clear Vision
+nominees | Charles E. Guggenheim for The American Experience - D-Day Remembered
+  | Deborah Hoffmann for Complaints of a Dutiful Daughter
+  | Jean Bach for A Great Day in Harlem
+  | Connie Field and Marilyn Mulford for Freedom on My Mind'
+       width='496'
+       height='207' />
+  </subpod>
+  <subpod title='Documentary (short subject)'>
+   <plaintext>winner | Charles E. Guggenheim for A Time for Justice
+nominees | Marcel Lozinski for 89 mm od Europy
+  | Robert Richter for School of the Americas Assassins
+  | Dee Mosbacher and Frances Reid for Straight from the Heart
+  | Vince DiPersio and Bill Guttentag for Blues Highway</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP691h3c19ca900aeed10000649bb781cb6eia4i?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Charles E. Guggenheim for A Time for Justice
+nominees | Marcel Lozinski for 89 mm od Europy
+  | Robert Richter for School of the Americas Assassins
+  | Dee Mosbacher and Frances Reid for Straight from the Heart
+  | Vince DiPersio and Bill Guttentag for Blues Highway'
+       title='winner | Charles E. Guggenheim for A Time for Justice
+nominees | Marcel Lozinski for 89 mm od Europy
+  | Robert Richter for School of the Americas Assassins
+  | Dee Mosbacher and Frances Reid for Straight from the Heart
+  | Vince DiPersio and Bill Guttentag for Blues Highway'
+       width='496'
+       height='173' />
+  </subpod>
+  <subpod title='Foreign language film'>
+   <plaintext>winner | Burnt by the Sun (Russia)
+nominees | Before the Rain (The Former Yugoslav Republic of Macedonia)
+  | Eat Drink Man Woman (Taiwan)
+  | Farinelli (Belgium)
+  | Fresa y chocolate (Cuba)</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP701h3c19ca900aeed10000102fiddhgah4d7gi?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Burnt by the Sun (Russia)
+nominees | Before the Rain (The Former Yugoslav Republic of Macedonia)
+  | Eat Drink Man Woman (Taiwan)
+  | Farinelli (Belgium)
+  | Fresa y chocolate (Cuba)'
+       title='winner | Burnt by the Sun (Russia)
+nominees | Before the Rain (The Former Yugoslav Republic of Macedonia)
+  | Eat Drink Man Woman (Taiwan)
+  | Farinelli (Belgium)
+  | Fresa y chocolate (Cuba)'
+       width='496'
+       height='169' />
+  </subpod>
+  <subpod title='Short film (animated)'>
+   <plaintext>winner | Alison Snowden and David Fine for Bob&apos;s Birthday
+nominees | Erica Russell for Triangle
+  | Michael Dudok de Wit for Le moine et le poisson
+  | Vanessa Schwartz for The Janitor
+  | Tim Watts and David Stoten for The Big Story</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP711h3c19ca900aeed1000050i2a2g778573h7b?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Alison Snowden and David Fine for Bob&apos;s Birthday
+nominees | Erica Russell for Triangle
+  | Michael Dudok de Wit for Le moine et le poisson
+  | Vanessa Schwartz for The Janitor
+  | Tim Watts and David Stoten for The Big Story'
+       title='winner | Alison Snowden and David Fine for Bob&apos;s Birthday
+nominees | Erica Russell for Triangle
+  | Michael Dudok de Wit for Le moine et le poisson
+  | Vanessa Schwartz for The Janitor
+  | Tim Watts and David Stoten for The Big Story'
+       width='440'
+       height='152' />
+  </subpod>
+  <subpod title='Short film (live action)'>
+   <plaintext>winner | Peggy Rajski and Randy Stone for Trevor
+  | Peter Capaldi and Ruth Kenley-Letts for Franz Kafka&apos;s It&apos;s a Wonderful Life
+nominees | JoBeth Williams and Michele McGuire for On Hope
+  | Paul Unwin and Nick Vivian for Syrup
+  | Sean Astin and Christine Astin for Kangaroo Court</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP721h3c19ca900aeed100002i4gc1fh3116bfe2?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Peggy Rajski and Randy Stone for Trevor
+  | Peter Capaldi and Ruth Kenley-Letts for Franz Kafka&apos;s It&apos;s a Wonderful Life
+nominees | JoBeth Williams and Michele McGuire for On Hope
+  | Paul Unwin and Nick Vivian for Syrup
+  | Sean Astin and Christine Astin for Kangaroo Court'
+       title='winner | Peggy Rajski and Randy Stone for Trevor
+  | Peter Capaldi and Ruth Kenley-Letts for Franz Kafka&apos;s It&apos;s a Wonderful Life
+nominees | JoBeth Williams and Michele McGuire for On Hope
+  | Paul Unwin and Nick Vivian for Syrup
+  | Sean Astin and Christine Astin for Kangaroo Court'
+       width='445'
+       height='173' />
+  </subpod>
+  <subpod title='Film editing'>
+   <plaintext>winner | Arthur Schmidt for Forrest Gump
+nominees | John Wright for Speed
+  | Richard Francis-Bruce for The Shawshank Redemption
+  | Sally Menke for Pulp Fiction
+  | Frederick Marx, Steve James and Bill Haugse for Hoop Dreams</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP731h3c19ca900aeed100004aaig106776c8h66?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Arthur Schmidt for Forrest Gump
+nominees | John Wright for Speed
+  | Richard Francis-Bruce for The Shawshank Redemption
+  | Sally Menke for Pulp Fiction
+  | Frederick Marx, Steve James and Bill Haugse for Hoop Dreams'
+       title='winner | Arthur Schmidt for Forrest Gump
+nominees | John Wright for Speed
+  | Richard Francis-Bruce for The Shawshank Redemption
+  | Sally Menke for Pulp Fiction
+  | Frederick Marx, Steve James and Bill Haugse for Hoop Dreams'
+       width='496'
+       height='173' />
+  </subpod>
+  <subpod title='Sound'>
+   <plaintext>winner | Gregg Landaker, Steve Maslow, Bob Beemer and David R. B. MacMillan for Speed
+nominees | Donald O. Mitchell, Michael Herbick, Frank A. Montaño and Arthur Rochester for Clear and Present Danger
+  | Paul Massey, David Campbell, Christopher David and Douglas Ganton for Legends of the Fall
+  | Randy Thom, Tom Johnson, Dennis Sands and William B. Kaplan for Forrest Gump
+  | Robert J. Litt, Elliot Tyson, Michael Herbick and Willie D. Burton for The Shawshank Redemption</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP741h3c19ca900aeed100004dhga886ieb81400?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Gregg Landaker, Steve Maslow, Bob Beemer and David R. B. MacMillan for Speed
+nominees | Donald O. Mitchell, Michael Herbick, Frank A. Montaño and Arthur Rochester for Clear and Present Danger
+  | Paul Massey, David Campbell, Christopher David and Douglas Ganton for Legends of the Fall
+  | Randy Thom, Tom Johnson, Dennis Sands and William B. Kaplan for Forrest Gump
+  | Robert J. Litt, Elliot Tyson, Michael Herbick and Willie D. Burton for The Shawshank Redemption'
+       title='winner | Gregg Landaker, Steve Maslow, Bob Beemer and David R. B. MacMillan for Speed
+nominees | Donald O. Mitchell, Michael Herbick, Frank A. Montaño and Arthur Rochester for Clear and Present Danger
+  | Paul Massey, David Campbell, Christopher David and Douglas Ganton for Legends of the Fall
+  | Randy Thom, Tom Johnson, Dennis Sands and William B. Kaplan for Forrest Gump
+  | Robert J. Litt, Elliot Tyson, Michael Herbick and Willie D. Burton for The Shawshank Redemption'
+       width='496'
+       height='249' />
+  </subpod>
+  <subpod title='Sound effects editing'>
+   <plaintext>winner | Stephen Hunter Flick for Speed
+nominees | Bruce Stambler and John Leveque for Clear and Present Danger
+  | Gloria S. Borders and Randy Thom for Forrest Gump</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP751h3c19ca900aeed100002c72igcegga887ac?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Stephen Hunter Flick for Speed
+nominees | Bruce Stambler and John Leveque for Clear and Present Danger
+  | Gloria S. Borders and Randy Thom for Forrest Gump'
+       title='winner | Stephen Hunter Flick for Speed
+nominees | Bruce Stambler and John Leveque for Clear and Present Danger
+  | Gloria S. Borders and Randy Thom for Forrest Gump'
+       width='496'
+       height='113' />
+  </subpod>
+  <subpod title='Visual effects'>
+   <plaintext>winner | Ken Ralston, George Murphy, Stephen Rosenbaum and Allen Hall for Forrest Gump
+nominees | John Bruno, Thomas L. Fisher, Jacques Stroweis and Patrick McClung for True Lies
+  | Scott Squires, Steve Williams, Tom Bertino and Jon Farhat for The Mask</plaintext>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP761h3c19ca900aeed10000586e45107aa9ff91?MSPStoreType=image/gif&amp;s=1'
+       alt='winner | Ken Ralston, George Murphy, Stephen Rosenbaum and Allen Hall for Forrest Gump
+nominees | John Bruno, Thomas L. Fisher, Jacques Stroweis and Patrick McClung for True Lies
+  | Scott Squires, Steve Williams, Tom Bertino and Jon Farhat for The Mask'
+       title='winner | Ken Ralston, George Murphy, Stephen Rosenbaum and Allen Hall for Forrest Gump
+nominees | John Bruno, Thomas L. Fisher, Jacques Stroweis and Patrick McClung for True Lies
+  | Scott Squires, Steve Williams, Tom Bertino and Jon Farhat for The Mask'
+       width='496'
+       height='151' />
+  </subpod>
+  <states count='2'>
+   <state name='Less'
+       input='Result__Less' />
+   <state name='Hide nominees'
+       input='Result__Hide nominees' />
+  </states>
+ </pod>
+ <assumptions count='1'>
+  <assumption type='Attribute'
+      word='AcademyAwardClass'
+      template='Assuming ${desc1}. Use ${desc2} instead'
+      count='2'>
+   <value name=''
+       desc='year of award ceremony'
+       input='*LitAttr.AcademyAwardClass.*AcademyAwardYear_%7F1995--_***---' />
+   <value name=''
+       desc='year of film release'
+       input='*LitAttr.AcademyAwardClass.*AcademyAwardYear_%7F1995--_***AcademyAwardYear_ReleaseYear%3A1995---' />
+  </assumption>
+ </assumptions>
+ <sources count='1'>
+  <source url='http://www.wolframalpha.com/sources/AcademyAwardDataSourceInformationNotes.html'
+      text='Academy award data' />
+ </sources>
+</queryresult>

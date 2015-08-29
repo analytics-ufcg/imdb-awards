@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<queryresult success='true'
+    error='false'
+    numpods='2'
+    datatypes='AcademyAward,Movie,People'
+    timedout=''
+    timedoutpods=''
+    timing='3.364'
+    parsetiming='0.164'
+    parsetimedout='false'
+    recalculate=''
+    id='MSPa68621i9b0446dg2bcfi00000h7g7d0ci7344d44'
+    host='http://www5a.wolframalpha.com'
+    server='29'
+    related='http://www5a.wolframalpha.com/api/v2/relatedQueries.jsp?id=MSPa68721i9b0446dg2bcfi00005f59dhhfgd2ac8c5&amp;s=29'
+    version='2.6'>
+ <pod title='Input interpretation'
+     scanner='Identity'
+     id='Input'
+     position='100'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <plaintext>Academy Awards | 1995 (year of award ceremony)</plaintext>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP68821i9b0446dg2bcfi00004430caa2062fdc47?MSPStoreType=image/gif&amp;s=29'
+       alt='Academy Awards | 1995 (year of award ceremony)'
+       title='Academy Awards | 1995 (year of award ceremony)'
+       width='380'
+       height='32' />
+  </subpod>
+ </pod>
+ <pod title='Academy Award winners and nominees'
+     scanner='Data'
+     id='Result'
+     position='200'
+     error='false'
+     numsubpods='6'
+     primary='true'>
+  <subpod title='Best picture'>
+   <plaintext>winner | Forrest Gump (produced by Wendy Finerman, Steve Tisch and Steve Starkey)
+nominees | Four Weddings and a Funeral (produced by Duncan Kenworthy)
+  | Pulp Fiction (produced by Lawrence Bender)
+  | Quiz Show (produced by Robert Redford, Michael Jacobs, Julian Krainin and Michael Nozik)
+  | The Shawshank Redemption (produced by Niki Marvin)</plaintext>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP68921i9b0446dg2bcfi000011bdecb9e7442ch8?MSPStoreType=image/gif&amp;s=29'
+       alt='winner | Forrest Gump (produced by Wendy Finerman, Steve Tisch and Steve Starkey)
+nominees | Four Weddings and a Funeral (produced by Duncan Kenworthy)
+  | Pulp Fiction (produced by Lawrence Bender)
+  | Quiz Show (produced by Robert Redford, Michael Jacobs, Julian Krainin and Michael Nozik)
+  | The Shawshank Redemption (produced by Niki Marvin)'
+       title='winner | Forrest Gump (produced by Wendy Finerman, Steve Tisch and Steve Starkey)
+nominees | Four Weddings and a Funeral (produced by Duncan Kenworthy)
+  | Pulp Fiction (produced by Lawrence Bender)
+  | Quiz Show (produced by Robert Redford, Michael Jacobs, Julian Krainin and Michael Nozik)
+  | The Shawshank Redemption (produced by Niki Marvin)'
+       width='496'
+       height='207' />
+  </subpod>
+  <subpod title='Actor in a leading role'>
+   <plaintext>winner | Tom Hanks in Forrest Gump
+nominees | John Travolta in Pulp Fiction
+  | Morgan Freeman in The Shawshank Redemption
+  | Nigel Hawthorne in The Madness of King George
+  | Paul Newman in Nobody&apos;s Fool</plaintext>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP69021i9b0446dg2bcfi00005eg89395117gh37g?MSPStoreType=image/gif&amp;s=29'
+       alt='winner | Tom Hanks in Forrest Gump
+nominees | John Travolta in Pulp Fiction
+  | Morgan Freeman in The Shawshank Redemption
+  | Nigel Hawthorne in The Madness of King George
+  | Paul Newman in Nobody&apos;s Fool'
+       title='winner | Tom Hanks in Forrest Gump
+nominees | John Travolta in Pulp Fiction
+  | Morgan Freeman in The Shawshank Redemption
+  | Nigel Hawthorne in The Madness of King George
+  | Paul Newman in Nobody&apos;s Fool'
+       width='433'
+       height='152' />
+  </subpod>
+  <subpod title='Actor in a supporting role'>
+   <plaintext>winner | Martin Landau in Ed Wood
+nominees | Chazz Palminteri in Bullets Over Broadway
+  | Gary Sinise in Forrest Gump
+  | Paul Scofield in Quiz Show
+  | Samuel L. Jackson in Pulp Fiction</plaintext>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP69121i9b0446dg2bcfi000029098hd5b99hfdcf?MSPStoreType=image/gif&amp;s=29'
+       alt='winner | Martin Landau in Ed Wood
+nominees | Chazz Palminteri in Bullets Over Broadway
+  | Gary Sinise in Forrest Gump
+  | Paul Scofield in Quiz Show
+  | Samuel L. Jackson in Pulp Fiction'
+       title='winner | Martin Landau in Ed Wood
+nominees | Chazz Palminteri in Bullets Over Broadway
+  | Gary Sinise in Forrest Gump
+  | Paul Scofield in Quiz Show
+  | Samuel L. Jackson in Pulp Fiction'
+       width='393'
+       height='152' />
+  </subpod>
+  <subpod title='Actress in a leading role'>
+   <plaintext>winner | Jessica Lange in Blue Sky
+nominees | Jodie Foster in Nell
+  | Miranda Richardson in Tom &amp; Viv
+  | Susan Sarandon in The Client
+  | Winona Ryder in Little Women</plaintext>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP69221i9b0446dg2bcfi000032hgfi434h38b0g1?MSPStoreType=image/gif&amp;s=29'
+       alt='winner | Jessica Lange in Blue Sky
+nominees | Jodie Foster in Nell
+  | Miranda Richardson in Tom &amp; Viv
+  | Susan Sarandon in The Client
+  | Winona Ryder in Little Women'
+       title='winner | Jessica Lange in Blue Sky
+nominees | Jodie Foster in Nell
+  | Miranda Richardson in Tom &amp; Viv
+  | Susan Sarandon in The Client
+  | Winona Ryder in Little Women'
+       width='336'
+       height='152' />
+  </subpod>
+  <subpod title='Actress in a supporting role'>
+   <plaintext>winner | Dianne Wiest in Bullets Over Broadway
+nominees | Helen Mirren in The Madness of King George
+  | Jennifer Tilly in Bullets Over Broadway
+  | Rosemary Harris in Tom &amp; Viv
+  | Uma Thurman in Pulp Fiction</plaintext>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP69321i9b0446dg2bcfi000031446h47f9f6c060?MSPStoreType=image/gif&amp;s=29'
+       alt='winner | Dianne Wiest in Bullets Over Broadway
+nominees | Helen Mirren in The Madness of King George
+  | Jennifer Tilly in Bullets Over Broadway
+  | Rosemary Harris in Tom &amp; Viv
+  | Uma Thurman in Pulp Fiction'
+       title='winner | Dianne Wiest in Bullets Over Broadway
+nominees | Helen Mirren in The Madness of King George
+  | Jennifer Tilly in Bullets Over Broadway
+  | Rosemary Harris in Tom &amp; Viv
+  | Uma Thurman in Pulp Fiction'
+       width='406'
+       height='152' />
+  </subpod>
+  <subpod title='Directing'>
+   <plaintext>winner | Robert Zemeckis for Forrest Gump
+nominees | Krzysztof Kieslowski for Trois couleurs: Rouge
+  | Quentin Tarantino for Pulp Fiction
+  | Robert Redford for Quiz Show
+  | Woody Allen for Bullets Over Broadway</plaintext>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP69421i9b0446dg2bcfi00002dighgb1hhhfcf3c?MSPStoreType=image/gif&amp;s=29'
+       alt='winner | Robert Zemeckis for Forrest Gump
+nominees | Krzysztof Kieslowski for Trois couleurs: Rouge
+  | Quentin Tarantino for Pulp Fiction
+  | Robert Redford for Quiz Show
+  | Woody Allen for Bullets Over Broadway'
+       title='winner | Robert Zemeckis for Forrest Gump
+nominees | Krzysztof Kieslowski for Trois couleurs: Rouge
+  | Quentin Tarantino for Pulp Fiction
+  | Robert Redford for Quiz Show
+  | Woody Allen for Bullets Over Broadway'
+       width='415'
+       height='152' />
+  </subpod>
+  <states count='2'>
+   <state name='More'
+       input='Result__More' />
+   <state name='Hide nominees'
+       input='Result__Hide nominees' />
+  </states>
+ </pod>
+ <assumptions count='1'>
+  <assumption type='Attribute'
+      word='AcademyAwardClass'
+      template='Assuming ${desc1}. Use ${desc2} instead'
+      count='2'>
+   <value name=''
+       desc='year of award ceremony'
+       input='*LitAttr.AcademyAwardClass.*AcademyAwardYear_%7F1995--_***---' />
+   <value name=''
+       desc='year of film release'
+       input='*LitAttr.AcademyAwardClass.*AcademyAwardYear_%7F1995--_***AcademyAwardYear_ReleaseYear%3A1995---' />
+  </assumption>
+ </assumptions>
+ <sources count='1'>
+  <source url='http://www.wolframalpha.com/sources/AcademyAwardDataSourceInformationNotes.html'
+      text='Academy award data' />
+ </sources>
+</queryresult>

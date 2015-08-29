@@ -1,0 +1,101 @@
+nome,ano,categoria,tipo
+Gladiator,2000,filme,1
+Chocolat,2000,filme,0
+Crouching Tiger,2000,filme,0
+Erin Brockovich,2000,filme,0
+Traffic,2000,filme,0
+A beautiful Mind,2001,filme,1
+Gosford Park,2001,filme,0
+In the Bedroom,2001,filme,0
+The Lord of the Rings: The Fellowship of the Ring,2001,filme,0
+Moulin Rouge,2001,filme,0
+Chicago,2002,filme,1
+Gangs of New York,2002,filme,0
+The Hours,2002,filme,0
+The Lord of the Rings: The Two Towers,2002,filme,0
+The Pianist,2002,filme,0
+Lost in Translation,2003,filme,0
+Master and Commander: The Far Side of the World,2003,filme,0
+Mystic River,2003,filme,0
+The Lord of the Rings: The Return of the King,2003,filme,1
+Seabiscuit,2003,filme,0
+The Aviator,2004,filme,0
+Finding Neverland,2004,filme,0
+Ray,2004,filme,0
+Million Dollar Baby,2004,filme,1
+Sideways,2004,filme,0
+Brokeback Mountain,2005,filme,0
+Capote,2005,filme,0
+Good Night,2005,filme,0
+Crash,2005,filme,1
+Munich,2005,filme,0
+Babel,2006,filme,0
+Letters from Iwo Jima,2006,filme,0
+Little Miss Sunshine,2006,filme,0
+The Departed,2006,filme,1
+The Queen,2006,filme,0
+Atonement,2007,filme,0
+Juno,2007,filme,0
+Michael Clayton,2007,filme,0
+No Country for Old Men,2007,filme,1
+There Will Be Blood,2007,filme,0
+The Curious Case of Benjamin Button,2008,filme,0
+Frost/Nixon,2008,filme,0
+Milk,2008,filme,0
+Slumdog Millionaire,2008,filme,1
+The Reader,2008,filme,0
+The Hurt Locker,2009,filme,1
+Avatar,2009,filme,0
+The Blind Side,2009,filme,0
+District 9,2009,filme,0
+An Education,2009,filme,0
+Inglourious Basterds,2009,filme,0
+Precious: Based on the Novel 'Push' by Sapphire,2009,filme,0
+A Serious Man,2009,filme,0
+Up,2009,filme,0
+Up in the Air,2009,filme,0
+The King's Speech,2010,filme,1
+Black Swan,2010,filme,0
+The fighter,2010,filme,0
+Inception,2010,filme,0
+The Kids Are All Right,2010,filme,0
+127 Hours,2010,filme,0
+The Social Network,2010,filme,0
+Toy Story 3,2010,filme,0
+True Grit,2010,filme,0
+Winters Bone,2010,filme,0
+The Artist,2011,filme,1
+The Descendants,2011,filme,0
+Extremely Loud & Incredibly Close,2011,filme,0
+The Help,2011,filme,0
+Hugo,2011,filme,0
+Midnight in Paris,2011,filme,0
+Moneyball,2011,filme,0
+The Tree of Life,2011,filme,0
+War Horse,2011,filme,0
+Argo,2012,filme,1
+Amour,2012,filme,0
+Beasts of the Southern Wild,2012,filme,0
+Django Unchained,2012,filme,0
+Les Misérables,2012,filme,0
+Life of Pi,2012,filme,0
+Lincoln,2012,filme,0
+Silver Linings Playbook,2012,filme,0
+Zero Dark Thirty,2012,filme,0
+12 Years a Slave,2013,filme,1
+American Hustle,2013,filme,0
+Captain Phillips,2013,filme,0
+Dallas Buyers Club,2013,filme,0
+Gravity,2013,filme,0
+Her,2013,filme,0
+Nebraska,2013,filme,0
+Philomena,2013,filme,0
+The Wolf of Wall Street,2013,filme,0
+Birdman,2014,filme,1
+American Sniper,2014,filme,0
+Boyhood,2014,filme,0
+The Grand budapest Hotel,2014,filme,0
+The Imitation game,2014,filme,0
+Selma,2014,filme,0
+The Theory of Everything,2014,filme,0
+Whiplash,2014,filme,0
