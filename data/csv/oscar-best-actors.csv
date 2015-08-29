@@ -1,0 +1,16 @@
+winnerMovie,nominees,year,winner
+Gladiator,"@{name=Javier Bardem; movie=Before Night Falls},@{name=Tom Hanks; movie=Cast Away},@{name=Ed Harris; movie=Pollock},@{name=Geoffrey Rush; movie=Quills}",2000,Russell Crowe
+Training Day,"@{name=Russell Crowe; movie=A Beautiful Mind},@{name=Sean Penn; movie=I Am Sam},@{name=Will Smith; movie=Ali},@{name=Tom Wilkinson; movie=In the Bedroom}",2001,Denzel Washington
+The Pianist,"@{name=Nicolas Cage; movie=Adaptation},@{name=Michael Caine; movie=The Quiet American},@{name=Daniel Day-Lewis; movie=Gangs of New York},@{name=Jack Nicholson; movie=About Schmidt}",2002,Adrien Brody
+Mystic River,"@{name=Johnny Depp; movie=Pirates of the Caribbean: The Curse of the Black Pearl},@{name=Ben Kingsley; movie=House of Sand and Fog},@{name=Jude Law; movie=Cold Mountain},@{name=Bill Murray; movie=Lost in Translation}",2003,Sean Penn
+Ray,"@{name=Don Cheadle; movie=Hotel Rwanda},@{name=Johnny Depp; movie=Finding Neverland},@{name=Leonardo DiCaprio; movie=The Aviator},@{name=Clint Eastwood; movie=Million Dollar Baby}",2004,Jamie Foxx
+Capote,"@{name=Terrence Howard; movie=Hustle & Flow},@{name=Heath Ledger; movie=Brokeback Mountain},@{name=Joaquin Phoenix; movie=Walk the Line},@{name=David Strathairn; movie=Good Night, and Good Luck}",2005,Philip Seymour Hoffman
+The Last King of Scotland,"@{name=Leonardo DiCaprio; movie=Blood Diamond},@{name=Ryan Gosling; movie=Half Nelson},@{name=Peter O; movie=Venus},@{name=Will Smith; movie=The Pursuit of Happyness}",2006,Forest Whitaker
+There Will Be Blood,"@{name=George Clooney; movie=Michael Clayton},@{name=Johnny Depp; movie=Sweeney Todd: The Demon Barber of Fleet Street},@{name=Tommy Lee; movie=In the Valley of Elah},@{name=Viggo Mortensen; movie=Eastern Promises}",2007,Daniel Day-Lewis
+Milk,"@{name=Richard Jenkins; movie=The Visitor},@{name=Frank Langella; movie=Frost/Nixon},@{name=Brad Pitt; movie=The Curious Case of Benjamin Button},@{name=Mickey Rourke; movie=The Wrestler}",2008,Sean Penn
+Crazy Heart,"@{name=George Clooney; movie=Up in the Air},@{name=Colin Firth; movie=A Single Man},@{name=Morgan Freeman; movie=Invictus},@{name=Jeremy Renner; movie=The Hurt Locker}",2009,Jeff Bridges
+The King's Speech,"@{name=Javier Bardem; movie=Biutiful},@{name=Jeff Bridges; movie=True Grit},@{name=Jesse Eisenberg; movie=The Social Network},@{name=James Franco; movie=127 Hours}",2010,Colin Firth
+The Artist,"@{name=n Bichir; movie=A Better Life},@{name=George Clooney; movie=The Descendants},@{name=Gary Oldman; movie=Tinker Tailor Soldier Spy},@{name=Brad Pitt; movie=Moneyball}",2011,Jean Dujardin
+Lincoln,"@{name=Bradley Cooper; movie=Silver Linings Playbook},@{name=Hugh Jackman; movie=Les MisÃ©rables},@{name=Joaquin Phoenix; movie=The Master},@{name=Denzel Washington; movie=Flight}",2012,Daniel Day-Lewis
+Dallas Buyers Club,"@{name=Christian Bale; movie=American Hustle},@{name=Bruce Dern; movie=Nebraska},@{name=Leonardo DiCaprio; movie=The Wolf of Wall Street},@{name=Chiwetel Ejiofor; movie=12 Years a Slave}",2013,Matthew McConaughey
+The Theory of Everything,"@{name=Steve Carell; movie=Foxcatcher},@{name=Bradley Cooper; movie=American Sniper},@{name=Benedict Cumberbatch; movie=The Imitation Game}",2014,Eddie Redmayne
