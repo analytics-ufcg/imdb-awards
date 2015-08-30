@@ -1,0 +1,61 @@
+|-
+| style="text-align:center;"| [[73rd Academy Awards|{year*:2000}]]
+{best:| '''[[{name:Steven Soderbergh}]]'''<br />&nbsp;– ''[[{movie:Traffic (2000 film)|Traffic}]]''}
+| {nomineesList:[[{nominees*:Stephen Daldry}]] – ''[[{movie:Billy Elliot}]]''<br /> [[{nominees*:Ang Lee}]] – ''[[{movie:Crouching Tiger, Hidden Dragon}]]''<br /> [[Ridley Scott]] – ''[[Gladiator (2000 film)|Gladiator]]''<br /> [[Steven Soderbergh]] – ''[[Erin Brockovich (film)|Erin Brockovich]]''}
+|-
+| style="text-align:center;"| [[74th Academy Awards|{year*:2001}]]
+{best:| '''[[Ron Howard]]'''<br />&nbsp;– ''[[A Beautiful Mind (film)|A Beautiful Mind]]''}
+| [[Robert Altman]] – ''[[Gosford Park]]''<br /> [[Peter Jackson]] – ''[[The Lord of the Rings: The Fellowship of the Ring]]''<br /> [[David Lynch]] – ''[[Mulholland Drive (film)|Mulholland Drive]]''<br /> [[Ridley Scott]] – ''[[Black Hawk Down (film)|Black Hawk Down]]''
+|-
+| style="text-align:center;"| [[75th Academy Awards|{year*:2002}]]
+| '''[[Roman Polanski]]'''<br />&nbsp;– ''[[The Pianist (2002 film)|The Pianist]]''
+| [[Pedro Almodóvar]] – ''[[Talk to Her]]''<br /> [[Stephen Daldry]] – ''[[The Hours (film)|The Hours]]''<br />[[Rob Marshall]] – ''[[Chicago (2002 film)|Chicago]]''<br /> [[Martin Scorsese]] – ''[[Gangs of New York]]''
+|-
+| style="text-align:center;"| [[76th Academy Awards|2003]]
+| '''[[Peter Jackson]]'''<br />&nbsp;– ''[[The Lord of the Rings: The Return of the King]]''
+| [[Sofia Coppola]] – ''[[Lost in Translation (film)|Lost in Translation]]''<br /> [[Clint Eastwood]] – ''[[Mystic River (film)|Mystic River]]''<br /> [[Fernando Meirelles]] – ''[[City of God (2002 film)|City of God]]''<br /> [[Peter Weir]] – ''[[Master and Commander: The Far Side of the World]]''
+|-
+| style="text-align:center;"| [[77th Academy Awards|2004]]
+| '''[[Clint Eastwood]]'''<br />&nbsp;– ''[[Million Dollar Baby]]''
+| [[Taylor Hackford]] – ''[[Ray (film)|Ray]]''<br /> [[Mike Leigh]] – ''[[Vera Drake]]''<br />[[Alexander Payne]] – ''[[Sideways]]''<br />[[Martin Scorsese]] – ''[[The Aviator (2004 film)|The Aviator]]''
+|-
+| style="text-align:center;"| [[78th Academy Awards|2005]]
+| '''[[Ang Lee]]'''<br />&nbsp;– ''[[Brokeback Mountain]]''
+| [[George Clooney]] – ''[[Good Night, and Good Luck.]]''<br /> [[Paul Haggis]] – ''[[Crash (2004 film)|Crash]]''<br /> [[Bennett Miller]] – ''[[Capote (film)|Capote]]''<br /> [[Steven Spielberg]] – ''[[Munich (film)|Munich]]''
+|-
+| style="text-align:center;"| [[79th Academy Awards|2006]]
+| '''[[Martin Scorsese]]'''<br />&nbsp;– ''[[The Departed]]''
+| [[Clint Eastwood]] – ''[[Letters from Iwo Jima]]''<br /> [[Stephen Frears]] – ''[[The Queen (film)|The Queen]]''<br /> [[Alejandro González Iñárritu]] – ''[[Babel (film)|Babel]]''<br />[[Paul Greengrass]] – ''[[United 93 (film)|United 93]]''
+|-
+| style="text-align:center;"| [[80th Academy Awards|2007]]
+| '''[[Coen brothers|Joel Coen & Ethan Coen]]'''<br />&nbsp;– ''[[No Country for Old Men (film)|No Country for Old Men]]''
+| [[Paul Thomas Anderson]] – ''[[There Will Be Blood]]''<br />[[Tony Gilroy]] – ''[[Michael Clayton (film)|Michael Clayton]]''<br />[[Jason Reitman]] – ''[[Juno (film)|Juno]]''<br />[[Julian Schnabel]] –  ''[[The Diving Bell and the Butterfly (film)|The Diving Bell and the Butterfly]]''<br />
+|-
+| style="text-align:center;"| [[81st Academy Awards|2008]]
+| '''[[Danny Boyle]]'''<br />&nbsp;– ''[[Slumdog Millionaire]]''
+| [[Stephen Daldry]] – ''[[The Reader (2008 film)|The Reader]]''<br />[[David Fincher]] – ''[[The Curious Case of Benjamin Button (film)|The Curious Case of Benjamin Button]]''<br />[[Ron Howard]] – ''[[Frost/Nixon (film)|Frost/Nixon]]''<br />[[Gus Van Sant]] – ''[[Milk (film)|Milk]]''<br />
+|-
+| style="text-align:center;"| [[82nd Academy Awards|2009]]
+| '''[[Kathryn Bigelow]]'''<br />&nbsp;– ''[[The Hurt Locker]]''
+|[[James Cameron]] – ''[[Avatar (2009 film)|Avatar]]''<br />[[Lee Daniels]] – ''[[Precious (film)|Precious: Based on the Novel "Push" by Sapphire]]''<br />[[Jason Reitman]] – ''[[Up in the Air (2009 film)|Up in the Air]]''<br />[[Quentin Tarantino]] – ''[[Inglourious Basterds]]''
+|-
+| style="text-align:center;"| [[83rd Academy Awards|2010]]
+| '''[[Tom Hooper]]'''<br />&nbsp;– ''[[The King's Speech]]''
+|[[Darren Aronofsky]] – ''[[Black Swan (film)|Black Swan]]''<br />[[Coen brothers|Joel Coen & Ethan Coen]] – ''[[True Grit (2010 film)|True Grit]]''<br />[[David Fincher]] – ''[[The Social Network]]''<br />[[David O. Russell]] – ''[[The Fighter (2010 film)|The Fighter]]''
+|-
+| style="text-align:center;"| [[84th Academy Awards|2011]]
+| '''[[Michel Hazanavicius]]'''<br />&nbsp;– ''[[The Artist (film)|The Artist]]''
+|[[Woody Allen]] – ''[[Midnight in Paris]]''<br />[[Terrence Malick]] – ''[[The Tree of Life (film)|The Tree of Life]]''<br />[[Alexander Payne]] – ''[[The Descendants (film)|The Descendants]]''<br />[[Martin Scorsese]] – ''[[Hugo (film)|Hugo]]''
+|-
+| style="text-align:center;"| [[85th Academy Awards|2012]]
+| '''[[Ang Lee]]'''<br />&nbsp;– ''[[Life of Pi (film)|Life of Pi]]''
+|[[Michael Haneke]] – ''[[Amour (2012 film)|Amour]]''<br />[[David O. Russell]] – ''[[Silver Linings Playbook]]''<br />[[Steven Spielberg]] – ''[[Lincoln (2012 film)|Lincoln]]''<br />[[Benh Zeitlin]] – ''[[Beasts of the Southern Wild]]''
+|-
+| style="text-align:center;"| [[86th Academy Awards|2013]]
+| '''[[Alfonso Cuarón]]'''<br />&nbsp;– ''[[Gravity (film)|Gravity]]''
+| |[[Steve McQueen (director)|Steve McQueen]] – ''[[12 Years a Slave (film)|12 Years a Slave]]''<br />[[Alexander Payne]] – ''[[Nebraska (film)|Nebraska]]''<br />[[David O. Russell]] – ''[[American Hustle]]''<br />[[Martin Scorsese]] – ''[[The Wolf of Wall Street (2013 film)|The Wolf of Wall Street]]''
+|-
+|style="text-align:center;"| [[87th Academy Awards|2014]]
+| '''[[Alejandro González Iñárritu]]'''<br />&nbsp;– ''[[Birdman (film)|Birdman or (The Unexpected Virtue of Ignorance)]]''
+|[[Wes Anderson]] – ''[[The Grand Budapest Hotel]]''<br />[[Richard Linklater]] – ''[[Boyhood (film)|Boyhood]]''<br />[[Bennett Miller]] – ''[[Foxcatcher]]''<br />[[Morten Tyldum]] – ''[[The Imitation Game]]''
+|\}
