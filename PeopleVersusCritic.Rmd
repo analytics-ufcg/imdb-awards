@@ -1,0 +1,29 @@
+---
+title: "BestActor"
+author: "Rodolfo Viana"
+date: "30-08-2015"
+output: html_document
+---
+
+
+```{r}
+library(ggplot2)
+library(calibrate)
+library(dplyr)
+
+oscar <- read.csv("~/Projetos/imdb-awards/data/csv/oscar_2000-2014.csv")
+oscar$movieMetascore <- oscar$movieMetascore/10
+
+
+oscar_2 <- filter(oscar, movieId==477302 | movieId==1065073 | movieId==167260 | movieRating==movieMetascore | movieRating < 6.9 | movieMetascore < 6)
+
+ggplot(oscar, aes(x = movieRating, y= movieMetascore, label=movieTitle)) + 
+         geom_point() + 
+         scale_x_continuous(limits = c(4, 10)) + scale_y_continuous(limits = c(4, 10))  +
+         geom_abline(colour="grey", intercept =0, slope = 1, size = 1) + 
+         geom_text(data=oscar_2, aes(label=movieTitle), size=4, colour = "blue") +
+          theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), 
+    panel.background = element_blank(), axis.line = element_line(colour = "black")) +
+    labs(x = "People", y = "Critic")
+```
+
