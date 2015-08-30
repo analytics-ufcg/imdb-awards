@@ -1,0 +1,331 @@
+|-
+! scope="row" rowspan=5 style="text-align:center" | [[{year*:2000} in film|2000]] <br /><small>[[73rd Academy Awards|(73rd)]] </small>
+| style="background:#FAEB86" | \{\{sort|Crowe|[[{winner:Russell Crowe}]]\}\} \{\{double dagger|alt=Award winner\}\}
+| style="background:#FAEB86" | ''[[{winnerMovie:Gladiator (2000 film)|Gladiator}]]''
+| style="background:#FAEB86" |  \{\{sort|Meridius|Maximus Decimus Meridius\}\}
+|rowspan=5|<ref name="Oscars73">\{\{Cite news|url=http://www.oscars.org/oscars/ceremonies/2001|title=The 73rd Academy Awards (2001) Nominees and Winners|accessdate=August 27, 2013|publisher=Academy of Motion Picture Arts and Sciences (AMPAS)\}\}</ref>
+|-
+{nominees*:| \{\{sort|Bardem|[[{name:Javier Bardem}]]\}\}
+| ''[[{movie:Before Night Falls (film)|Before Night Falls}]]''
+| \{\{sort|Arenas|[[Reinaldo Arenas]]\}\}}
+|-
+{nominees*:| \{\{sort|Hanks|[[{name:Tom Hanks}]]\}\}
+| ''[[Cast Away]]''
+| \{\{sort|Noland|Chuck Noland\}\}}
+|-
+{nominees*:| \{\{sort|Harris|[[{name:Ed Harris}]]\}\}
+| ''[[Pollock (film)|Pollock]]''
+| \{\{sort|Pollock|[[Jackson Pollock]]\}\}}
+|-
+{nominees*:| \{\{sort|Rush|[[{name:Geoffrey Rush}]]\}\}
+| ''[[Quills]]''
+| \{\{sort|de Sade|[[Marquis de Sade|The Marquis de Sade]]\}\}}
+|-
+! scope="row" rowspan=5 style="text-align:center" | [[{year*:2001} in film|2001]] <br /><small>[[74th Academy Awards|(74th)]] </small>
+| style="background:#FAEB86" | \{\{sort|Washington|[[Denzel Washington]]\}\} \{\{double dagger|alt=Award winner\}\}
+| style="background:#FAEB86" | ''[[Training Day]]''
+| style="background:#FAEB86" | \{\{sort|Harris|[[Alonzo Harris|Detective Alonzo Harris]]\}\}
+|rowspan=5|<ref name="Oscars74">\{\{Cite news|url=http://www.oscars.org/oscars/ceremonies/2002|title=The 74th Academy Awards (2002) Nominees and Winners|accessdate=August 27, 2013|publisher=Academy of Motion Picture Arts and Sciences (AMPAS)\}\}</ref>
+|-
+| \{\{sort|Crowe|[[Russell Crowe]]\}\}
+| \{\{sort|Beautiful|''[[A Beautiful Mind (film)|A Beautiful Mind]]''\}\}
+| \{\{sort|Nash|[[John Forbes Nash, Jr.]]\}\}
+|-
+| \{\{sort|Penn|[[Sean Penn]]\}\}
+| ''[[I Am Sam]]''
+| \{\{sort|Dawson|Sam Dawson\}\}
+|-
+| \{\{sort|Smith|[[Will Smith]]\}\}
+| ''[[Ali (film)|Ali]]''
+| \{\{sort|Ali|[[Muhammad Ali]]\}\}
+|-
+| \{\{sort|Wilkinson|[[Tom Wilkinson]]\}\}
+| ''[[In the Bedroom]]''
+| \{\{sort|Fowler|Dr. Matt Fowler\}\}
+|-
+! scope="row" rowspan=5 style="text-align:center" | [[{year*:2002} in film|2002]] <br /><small>[[75th Academy Awards|(75th)]] </small>
+| style="background:#FAEB86" | \{\{sort|Brody|[[Adrien Brody]]\}\} \{\{double dagger|alt=Award winner\}\}
+| style="background:#FAEB86" | \{\{sort|Pianist|''[[The Pianist (2002 film)|The Pianist]]''\}\}
+| style="background:#FAEB86" | \{\{sort|Szpilman|[[Władysław Szpilman]]\}\}
+|rowspan=5|<ref name="Oscars75">\{\{Cite news|url=http://www.oscars.org/oscars/ceremonies/2003|title=The 75th Academy Awards (2003) Nominees and Winners|accessdate=August 27, 2013|publisher=Academy of Motion Picture Arts and Sciences (AMPAS)\}\}</ref>
+|-
+| \{\{sort|Cage|[[Nicolas Cage]]\}\}
+| ''[[Adaptation (film)|Adaptation]]''
+| \{\{sort|Kaufman|[[Charlie Kaufman]]\}\}<br />Donald Kaufman
+|-
+| \{\{sort|Caine|[[Michael Caine]]\}\}
+| \{\{sort|Quiet|''[[The Quiet American (2002 film)|The Quiet American]]''\}\}
+| \{\{sort|Fowler|Thomas Fowler\}\}
+|-
+| \{\{sort|Day-Lewis|[[Daniel Day-Lewis]]\}\}
+| ''[[Gangs of New York]]''
+| \{\{sort|Cutting|William "Bill the Butcher" Cutting\}\}
+|-
+| \{\{sort|Nicholson|[[Jack Nicholson]]\}\}
+| ''[[About Schmidt]]''
+| \{\{sort|Schmidt|Warren R. Schmidt\}\}
+|-
+! scope="row" rowspan=5 style="text-align:center" | [[2003 in film|2003]] <br /><small>[[76th Academy Awards|(76th)]] </small>
+| style="background:#FAEB86" | \{\{sort|Penn|[[Sean Penn]]\}\} \{\{double dagger|alt=Award winner\}\}
+| style="background:#FAEB86" | ''[[Mystic River (film)|Mystic River]]''
+| style="background:#FAEB86" | \{\{sort|Markum|Jimmy Markum\}\}
+|rowspan=5|<ref name="Oscars76">\{\{Cite news|url=http://www.oscars.org/oscars/ceremonies/2004|title=The 76th Academy Awards (2004) Nominees and Winners|accessdate=August 27, 2013|publisher=Academy of Motion Picture Arts and Sciences (AMPAS)\}\}</ref>
+|-
+| \{\{sort|Depp|[[Johnny Depp]]\}\}
+| ''[[Pirates of the Caribbean: The Curse of the Black Pearl]]''
+| \{\{sort|Sparrow|[[Jack Sparrow]]\}\}
+|-
+| \{\{sort|Kingsley|[[Ben Kingsley]]\}\}
+| ''[[House of Sand and Fog (film)|House of Sand and Fog]]''
+| \{\{sort|Behrani|Massoud Amir Behrani\}\}
+|-
+| \{\{sort|Law|[[Jude Law]]\}\}
+| ''[[Cold Mountain (film)|Cold Mountain]]''
+| \{\{sort|Inman|W. P. Inman\}\}
+|-
+| \{\{sort|Murray|[[Bill Murray]]\}\}
+| ''[[Lost in Translation (film)|Lost in Translation]]''
+| \{\{sort|Harris|Bob Harris\}\}
+|-
+! scope="row" rowspan=5 style="text-align:center" | [[2004 in film|2004]] <br /><small>[[77th Academy Awards|(77th)]] </small>
+| style="background:#FAEB86" | \{\{sort|Foxx|[[Jamie Foxx]]\}\} \{\{double dagger|alt=Award winner\}\}
+| style="background:#FAEB86" | ''[[Ray (film)|Ray]]''
+| style="background:#FAEB86" | \{\{sort|Charles|[[Ray Charles]]\}\}
+|rowspan=5|<ref name="Oscars77">\{\{Cite news|url=http://www.oscars.org/oscars/ceremonies/2005|title=The 77th Academy Awards (2005) Nominees and Winners|accessdate=August 27, 2013|publisher=Academy of Motion Picture Arts and Sciences (AMPAS)\}\}</ref>
+|-
+| \{\{sort|Cheadle|[[Don Cheadle]]\}\}
+| ''[[Hotel Rwanda]]''
+| \{\{sort|Rusesabagina|[[Paul Rusesabagina]]\}\}
+|-
+| \{\{sort|Depp|[[Johnny Depp]]\}\}
+| ''[[Finding Neverland]]''
+| \{\{sort|Barrie|[[J. M. Barrie]]\}\}
+|-
+| \{\{sort|DiCaprio|[[Leonardo DiCaprio]]\}\}
+| \{\{sort|Aviator|''[[The Aviator (2004 film)|The Aviator]]''\}\}
+| \{\{sort|Hughes|[[Howard Hughes]]\}\}
+|-
+| \{\{sort|Eastwood|[[Clint Eastwood]]\}\}
+| ''[[Million Dollar Baby]]''
+| \{\{sort|Dunn|Frankie Dunn\}\}
+|-
+! scope="row" rowspan=5 style="text-align:center" | [[2005 in film|2005]] <br /><small>[[78th Academy Awards|(78th)]] </small>
+| style="background:#FAEB86" | \{\{sort|Hoffman|[[Philip Seymour Hoffman]]\}\} \{\{double dagger|alt=Award winner\}\}
+| style="background:#FAEB86" | ''[[Capote (film)|Capote]]''
+| style="background:#FAEB86" | \{\{sort|Capote|[[Truman Capote]]\}\}
+|rowspan=5|<ref name="Oscars78">\{\{Cite news|url=http://www.oscars.org/oscars/ceremonies/2006|title=The 78th Academy Awards (2006) Nominees and Winners|accessdate=August 27, 2013|publisher=Academy of Motion Picture Arts and Sciences (AMPAS)\}\}</ref>
+|-
+| \{\{sort|Howard|[[Terrence Howard]]\}\}
+| ''[[Hustle & Flow]]''
+| Djay
+|-
+| \{\{sort|Ledger|[[Heath Ledger]]\}\}
+| ''[[Brokeback Mountain]]''
+| \{\{sort|de Mar|[[Ennis Del Mar]]\}\}
+|-
+| \{\{sort|Phoenix|[[Joaquin Phoenix]]\}\}
+| ''[[Walk the Line]]''
+| \{\{sort|Cash|[[Johnny Cash]]\}\}
+|-
+| \{\{sort|Strathairn|[[David Strathairn]]\}\}
+| ''[[Good Night, and Good Luck]]''
+| \{\{sort|Murrow|[[Edward R. Murrow]]\}\}
+|-
+! scope="row" rowspan=5 style="text-align:center" | [[2006 in film|2006]] <br /><small>[[79th Academy Awards|(79th)]] </small>
+| style="background:#FAEB86" | \{\{sort|Whitaker|[[Forest Whitaker]]\}\} \{\{double dagger|alt=Award winner\}\}
+| style="background:#FAEB86" | \{\{sort|Last|''[[The Last King of Scotland (film)|The Last King of Scotland]]''\}\}
+| style="background:#FAEB86" | \{\{sort|Amin|[[Idi Amin]]\}\}
+|rowspan=5|<ref name="Oscars79">\{\{Cite news|url=http://www.oscars.org/oscars/ceremonies/2007|title=The 79th Academy Awards (2007) Nominees and Winners|accessdate=August 27, 2013|publisher=Academy of Motion Picture Arts and Sciences (AMPAS)\}\}</ref>
+|-
+| \{\{sort|DiCaprio|[[Leonardo DiCaprio]]\}\}
+| ''[[Blood Diamond (film)|Blood Diamond]]''
+| \{\{sort|Archer|Danny Archer\}\}
+|-
+| \{\{sort|Gosling|[[Ryan Gosling]]\}\}
+| ''[[Half Nelson (film)|Half Nelson]]''
+| \{\{sort|Dunne|Dan Dunne\}\}
+|-
+| \{\{sort|O'Toole|[[Peter O'Toole]]\}\}
+| ''[[Venus (film)|Venus]]''
+| \{\{sort|Maurice|Maurice\}\}
+|-
+| \{\{sort|Smith|[[Will Smith]]\}\}
+| \{\{sort|Pursuit|''[[The Pursuit of Happyness]]''\}\}
+| \{\{sort|Gardner|[[Chris Gardner]]\}\}
+|-
+! scope="row" rowspan=5 style="text-align:center" | [[2007 in film|2007]] <br /><small>[[80th Academy Awards|(80th)]] </small>
+| style="background:#FAEB86" | \{\{sort|Day-Lewis|[[Daniel Day-Lewis]]\}\} \{\{double dagger|alt=Award winner\}\}
+| style="background:#FAEB86" | ''[[There Will Be Blood]]''
+| style="background:#FAEB86" | \{\{sort|Plainview|Daniel Plainview\}\}
+|rowspan=5|<ref name="Oscars80">\{\{Cite news|url=http://www.oscars.org/oscars/ceremonies/2008|title=The 80th Academy Awards (2008) Nominees and Winners|accessdate=August 27, 2013|publisher=Academy of Motion Picture Arts and Sciences (AMPAS)\}\}</ref>
+|-
+| \{\{sort|Clooney|[[George Clooney]]\}\}
+| ''[[Michael Clayton (film)|Michael Clayton]]''
+| \{\{sort|Clayton|Michael Clayton\}\}
+|-
+| \{\{sort|Depp|[[Johnny Depp]]\}\}
+| ''[[Sweeney Todd: The Demon Barber of Fleet Street (2007 film)|Sweeney Todd: The Demon Barber of Fleet Street]]''
+| \{\{sort|Barker|[[Sweeney Todd|Benjamin Barker]]\}\}
+|-
+| \{\{sort|Jones|[[Tommy Lee Jones]]\}\}
+| ''[[In the Valley of Elah]]''
+| \{\{sort|Deerfield|Hank Deerfield\}\}
+|-
+| \{\{sort|Mortensen|[[Viggo Mortensen]]\}\}
+| ''[[Eastern Promises]]''
+| \{\{sort|Luzhin|Nikolai Luzhin\}\}
+|-
+! scope="row" rowspan=5 style="text-align:center" | [[2008 in film|2008]] <br /><small>[[81st Academy Awards|(81st)]] </small>
+| style="background:#FAEB86" | \{\{sort|Penn|[[Sean Penn]]\}\} \{\{double dagger|alt=Award winner\}\}
+| style="background:#FAEB86" | ''[[Milk (film)|Milk]]''
+| style="background:#FAEB86" | \{\{sort|Milk|[[Harvey Milk]]\}\}
+|rowspan=5|<ref name="Oscars81">\{\{Cite news|url=http://www.oscars.org/oscars/ceremonies/2009|title=The 81st Academy Awards (2009) Nominees and Winners|accessdate=August 27, 2013|publisher=Academy of Motion Picture Arts and Sciences (AMPAS)\}\}</ref>
+|-
+| \{\{sort|Jenkins|[[Richard Jenkins]]\}\}
+| \{\{sort|Visitor|''[[The Visitor (2007 drama film)|The Visitor]]''\}\}
+| \{\{sort|Vale|Walter Vale\}\}
+|-
+| \{\{sort|Langella|[[Frank Langella]]\}\}
+| ''[[Frost/Nixon (film)|Frost/Nixon]]''
+| \{\{sort|Nixon|[[Richard Nixon]]\}\}
+|-
+| \{\{sort|Pitt|[[Brad Pitt]]\}\}
+| \{\{sort|Curious|''[[The Curious Case of Benjamin Button (film)|The Curious Case of Benjamin Button]]''\}\}
+| \{\{sort|Button|Benjamin Button\}\}
+|-
+| \{\{sort|Rourke|[[Mickey Rourke]]\}\}
+| \{\{sort|Wrestler|''[[The Wrestler (2008 film)|The Wrestler]]''\}\}
+| \{\{sort|Robinson|Randy "The Ram" Robinson\}\}
+|-
+! scope="row" rowspan=5 style="text-align:center" | [[2009 in film|2009]] <br /><small>[[82nd Academy Awards|(82nd)]] </small>
+| style="background:#FAEB86" | \{\{sort|Bridges|[[Jeff Bridges]]\}\} \{\{double dagger|alt=Award winner\}\}
+| style="background:#FAEB86" | ''[[Crazy Heart]]''
+| style="background:#FAEB86" | \{\{sort|Blake|Otis "Bad" Blake\}\}
+|rowspan=5|<ref name="Oscars82">\{\{Cite news|url=http://www.oscars.org/oscars/ceremonies/2010|title=The 82nd Academy Awards (2010) Nominees and Winners|accessdate=August 27, 2013|publisher=Academy of Motion Picture Arts and Sciences (AMPAS)\}\}</ref>
+|-
+| \{\{sort|Clooney|[[George Clooney]]\}\}
+| ''[[Up in the Air (2009 film)|Up in the Air]]''
+| \{\{sort|Bingham|Ryan Bingham\}\}
+|-
+| \{\{sort|Firth|[[Colin Firth]]\}\}
+| \{\{sort|Single|''[[A Single Man]]''\}\}
+| \{\{sort|Falconer|George Falconer\}\}
+|-
+| \{\{sort|Freeman|[[Morgan Freeman]]\}\}
+| ''[[Invictus (film)|Invictus]]''
+| \{\{sort|Mandela|[[Nelson Mandela]]\}\}
+|-
+| \{\{sort|Renner|[[Jeremy Renner]]\}\}
+| \{\{sort|Hurt|''[[The Hurt Locker]]''\}\}
+| \{\{sort|James|Sergeant First Class William James\}\}
+|-
+! scope="row" rowspan=5 style="text-align:center" | [[2010 in film|2010]] <br /><small>[[83rd Academy Awards|(83rd)]] </small>
+| style="background:#FAEB86" | \{\{sort|Firth|[[Colin Firth]]\}\} \{\{double dagger|alt=Award winner\}\}
+| style="background:#FAEB86" | \{\{sort|King's|''[[The King's Speech]]''\}\}
+| style="background:#FAEB86" | \{\{sort|George|[[George VI|King George VI]]\}\}
+|rowspan=5|<ref name="Oscars83">\{\{Cite news|url=http://www.oscars.org/oscars/ceremonies/2011|title=The 83rd Academy Awards (2011) Nominees and Winners|accessdate=August 27, 2013|publisher=Academy of Motion Picture Arts and Sciences (AMPAS)\}\}</ref>
+|-
+| \{\{sort|Bardem|[[Javier Bardem]]\}\}
+| \{\{sort|Biutiful|''[[Biutiful]]''\}\}
+| Uxbal
+|-
+| \{\{sort|Bridges|[[Jeff Bridges]]\}\}
+| ''[[True Grit (2010 film)|True Grit]]''
+| \{\{sort|Cogburn|[[Rooster Cogburn (character)|Rooster Cogburn]]\}\}
+|-
+| \{\{sort|Eisenberg|[[Jesse Eisenberg]]\}\}
+| \{\{sort|Social|''[[The Social Network]]''\}\}
+| \{\{sort|Zuckerburg|[[Mark Zuckerberg]]\}\}
+|-
+| \{\{sort|Franco|[[James Franco]]\}\}
+| ''[[127 Hours]]''
+| \{\{sort|Ralston|[[Aron Ralston]]\}\}
+|-
+! scope="row" rowspan=5 style="text-align:center" | [[2011 in film|2011]] <br /><small>[[84th Academy Awards|(84th)]] </small>
+| style="background:#FAEB86" | \{\{sort|Dujardin|[[Jean Dujardin]]\}\} \{\{double dagger|alt=Award winner\}\}
+| style="background:#FAEB86" | \{\{sort|Artist|''[[The Artist (film)|The Artist]]''\}\}
+| style="background:#FAEB86" | \{\{sort|Valentin|George Valentin\}\}
+|rowspan=5|<ref name="Oscars84">\{\{Cite news|url=http://www.oscars.org/oscars/ceremonies/2012|title=The 84th Academy Awards (2012) Nominees and Winners|accessdate=August 27, 2013|publisher=Academy of Motion Picture Arts and Sciences (AMPAS)\}\}</ref>
+|-
+| \{\{sort|Bichir|[[Demián Bichir]]\}\}
+| \{\{sort|Better|''[[A Better Life]]''\}\}
+| \{\{sort|Galindo|Carlos Galindo\}\}
+|-
+| \{\{sort|Clooney|[[George Clooney]]\}\}
+| \{\{sort|Descendants|''[[The Descendants]]''\}\}
+| \{\{sort|King|Matthew King\}\}
+|-
+| \{\{sort|Oldman|[[Gary Oldman]]\}\}
+| ''[[Tinker Tailor Soldier Spy (film)|Tinker Tailor Soldier Spy]]''
+| \{\{sort|Smiley|[[George Smiley]]\}\}
+|-
+| \{\{sort|Pitt|[[Brad Pitt]]\}\}
+| ''[[Moneyball (film)|Moneyball]]''
+| \{\{sort|Beane|[[Billy Beane]]\}\}
+|-
+! scope="row" rowspan=5 style="text-align:center" | [[2012 in film|2012]] <br /><small>[[85th Academy Awards|(85th)]] </small>
+| style="background:#FAEB86" | \{\{sort|Day-Lewis|[[Daniel Day-Lewis]]\}\} \{\{double dagger|alt=Award winner\}\}
+| style="background:#FAEB86" | ''[[Lincoln (2012 film)|Lincoln]]''
+| style="background:#FAEB86" | \{\{sort|Lincoln|[[Abraham Lincoln]]\}\}
+|rowspan=5|<ref name="Oscars85">\{\{Cite news|url=http://www.oscars.org/oscars/ceremonies/2013|title=The 85th Academy Awards (2013) Nominees and Winners|accessdate=August 27, 2013|publisher=Academy of Motion Picture Arts and Sciences (AMPAS)\}\}</ref>
+|-
+| \{\{sort|Cooper|[[Bradley Cooper]]\}\}
+| ''[[Silver Linings Playbook]]''
+| \{\{sort|Solitano|Patrick "Pat" Solitano, Jr.\}\}
+|-
+| \{\{sort|Jackman|[[Hugh Jackman]]\}\}
+| ''[[Les Misérables (2012 film)|Les Misérables]]''
+| \{\{sort|Valjean|[[Jean Valjean]]\}\}
+|-
+| \{\{sort|Phoenix|[[Joaquin Phoenix]]\}\}
+| \{\{sort|Master|''[[The Master (2012 film)|The Master]]''\}\}
+| \{\{sort|Quell|Freddie Quell\}\}
+|-
+| \{\{sort|Washington|[[Denzel Washington]]\}\}
+| ''[[Flight (2012 film)|Flight]]''
+| \{\{sort|Whitaker|William "Whip" Whitaker, Sr.\}\}
+|-
+! scope="row" rowspan=5 style="text-align:center" | [[2013 in film|2013]] <br /><small>[[86th Academy Awards|(86th)]] </small>
+| style="background:#FAEB86" | \{\{sort|McConaughey|[[Matthew McConaughey]]\}\} \{\{double dagger|alt=Award winner\}\}
+| style="background:#FAEB86" | ''[[Dallas Buyers Club]]''
+| style="background:#FAEB86" | \{\{sort|Woodruff|[[Ron Woodroof]]\}\}
+|rowspan=5|<ref name="Oscars86">\{\{cite news|url=http://www.oscars.org/oscars/ceremonies/2014|title=The 86th Academy Awards (2014) Nominees and Winners|accessdate=April 10, 2014|publisher=Academy of Motion Picture Arts and Sciences (AMPAS)\}\}</ref>
+|-
+| \{\{sort|Bale|[[Christian Bale]]\}\}
+| ''[[American Hustle]]''
+| \{\{sort|Rosenfeld|Irving Rosenfeld\}\}
+|-
+| \{\{sort|Dern|[[Bruce Dern]]\}\}
+| ''[[Nebraska (film)|Nebraska]]''
+| \{\{sort|Grant|Woodrow T. "Woody" Grant\}\}
+|-
+| \{\{sort|DiCaprio|[[Leonardo DiCaprio]]\}\}
+| \{\{sort|Wolf|''[[The Wolf of Wall Street (2013 film)|The Wolf of Wall Street]]''\}\}
+| \{\{sort|Belfort|[[Jordan Belfort]]\}\}
+|-
+| \{\{sort|Ejiofor|[[Chiwetel Ejiofor]]\}\}
+| ''[[12 Years a Slave (film)|12 Years a Slave]]''
+| \{\{sort|Northup|[[Solomon Northup]]\}\}
+|-
+! scope="row" rowspan=5 style="text-align:center" | [[2014 in film|2014]] <br /><small>[[87th Academy Awards|(87th)]] </small>
+| style="background:#FAEB86" | \{\{sort|Redmayne|[[Eddie Redmayne]]\}\} \{\{double dagger|alt=Award winner\}\}
+| style="background:#FAEB86" | \{\{sort|Theory|''[[The Theory of Everything (2014 film)|The Theory of Everything]]''\}\}
+| style="background:#FAEB86" | \{\{sort|Hawking|[[Stephen Hawking]]\}\}
+| rowspan=5|<ref name="Oscars87">\{\{cite news|url=http://www.oscars.org/oscars/ceremonies/2015|title=The 87th Academy Awards (2015) Nominees and Winners|accessdate=January 15, 2015|publisher=Academy of Motion Picture Arts and Sciences (AMPAS)\}\}</ref>
+|-
+| \{\{sort|Carell|[[Steve Carell]]\}\}
+| ''[[Foxcatcher]]''
+| \{\{sort|du Pont|[[John Eleuthère du Pont|John du Pont]]\}\}
+|-
+| \{\{sort|Cooper|[[Bradley Cooper]]\}\}
+| ''[[American Sniper (film)|American Sniper]]''
+| \{\{sort|Kyle|[[Chris Kyle]]\}\}
+|-
+| \{\{sort|Cumberbatch|[[Benedict Cumberbatch]]\}\}
+| \{\{sort|Imitation|''[[The Imitation Game]]''\}\}
+| \{\{sort|Turing|[[Alan Turing]]\}\}
+|-
+| \{\{sort|Keaton|[[Michael Keaton]]\}\}
+| ''[[Birdman (film)|Birdman]]''
+| \{\{sort|Thomson|Riggan Thomson\}\}
+|\}
