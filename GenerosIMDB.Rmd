@@ -1,0 +1,22 @@
+---
+title: "GenerosIMDB"
+author: "Rodolfo Viana"
+date: "30-08-2015"
+output: html_document
+---
+
+
+```{r}
+library(dplyr)
+
+top250IMDB <- read.csv("~/Projetos/imdb-awards/data/top250IMDB.csv")
+
+top250IMDB$rating <- as.numeric(as.character(top250IMDB$rating))
+top250IMDB$metascore <- as.numeric(as.character(top250IMDB$metascore))
+
+ggplot(top250IMDB, aes(x = idIMDB, y= rating, colour=genres))+ 
+         geom_point(size=3) + 
+         theme(panel.grid.major = element_blank(), panel.grid.minor.x = element_blank(), panel.grid.minor = element_blank(), 
+    panel.background = element_blank(), axis.line = element_line(colour = "black")) +
+    labs(y = "Rating", x = "") 
+```
