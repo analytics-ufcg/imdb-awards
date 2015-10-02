@@ -13,11 +13,8 @@ oscar <- read.csv("~/Projetos/imdb-awards/data/csv/oscar_2000-2014.csv")
 oscarTxt <- read.csv("~/Projetos/imdb-awards/data/oscar_2000-2014.txt")
 
 oscar <- cbind(oscar, oscarTxt)
-
 oscarByAno <- group_by(oscar, ano)
 
-oscarMaxPeople <- summarise(oscarByAno, 
-  max(movieRating))
 
 colnames(oscarMaxPeople) <- c("ano", "movieRating")
 oscarMaxPeople$tipo <- 0
@@ -33,6 +30,8 @@ ggplot(oscarMaxAndVencendores, aes(x = as.factor(ano), y= movieRating, colour=as
          theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), 
     panel.background = element_blank(), axis.line = element_line(colour = "black")) +
     labs(x = "Ano", y = "Rating") 
+
+
   
 ```
 

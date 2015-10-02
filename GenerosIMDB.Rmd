@@ -8,11 +8,32 @@ output: html_document
 
 ```{r}
 library(dplyr)
+library(ggplot2)
 
 top250IMDB <- read.csv("~/Projetos/imdb-awards/data/top250IMDB.csv")
 
 top250IMDB$rating <- as.numeric(as.character(top250IMDB$rating))
 top250IMDB$metascore <- as.numeric(as.character(top250IMDB$metascore))
+
+#x <- top250IMDB$idIMDB
+#x <- as.data.frame(x)
+#x$x <- gsub("tt", "", x$x)
+#x$x <- runif(250, min = 1, max = 250)
+#str(x)
+#x$x1 <-NULL
+
+#target <- c("Action", "Comedy", "Drama")
+#dataframe1 <- filter(top250IMDB, genres %in% target) 
+#dataframe1$newgenres <- dataframe1$genres
+
+#target <- c("Adventure", "Animation", "Horror", "Sci-Fi", "Thriller", "Western")
+#dataframe2 <- filter(top250IMDB, genres %in% target) 
+#dataframe2$newgenres <- "Others"
+
+#top250IMDB <- rbind(dataframe2, dataframe1)
+#top250IMDB$countries <- x$x
+
+#write.csv(top250IMDB, file = "/home/rodolfo/top250IMDB.csv", row.names= FALSE)
 
 ggplot(top250IMDB, aes(x = idIMDB, y= rating, colour=genres))+ 
          geom_point(size=3) + 
